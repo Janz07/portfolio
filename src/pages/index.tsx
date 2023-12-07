@@ -4,7 +4,7 @@ import {AiFillTwitterCircle, AiFillLinkedin, AiFillGithub} from 'react-icons/ai'
 import Link from 'next/link';
 
 import Image from 'next/image';
-import deved from '../../public/jans.png';
+import deved from '../../public/icon.png';
 import certification from '../../public/certification.png';
 import software from '../../public/software.png';
 import projects from '../../public/projects.png';
