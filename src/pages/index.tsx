@@ -101,7 +101,7 @@ export default function Home() {
             <div className='text-center shadow-lg p-10 rounded-xl my-10 dark:bg-white'>
               <Image className='mx-auto' src={projects} alt='' width={200} height={200} />
               <h3 className='text-lg font-medium pt-8 pb-2'>Projects</h3>
-              <Link href="https://delicious.jhojans.com/">
+              <Link href="https://janz07.github.io/Delicious/">
                 <p className='text-800 py-1 hover:text-green-400'>Delicious</p>
               </Link>
               <Link href="https://github.com/Janz07/higlot">
