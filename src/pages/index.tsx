@@ -46,6 +46,14 @@ export default function Home() {
             <p className='text-md py-5 leading-6 text-gray-800 md:text-xl max-w-4xl mx-auto dark:text-white'>I am a Telecommunications Engineer 
             interested mainly in technology, software development and languages (English and French). I work as a Front-end developer, 
             focused on improving aesthetics and an efficient UI/UX.
+
+            I've worked in the Infraestructure TI field being on charge of platforms like Kaspersky, Cloudflare, IONOS, WordPress, Moodle, AWS,
+            GoDaddy, Linode, namecheap, Zoho, Github, o365 Admin, Azure. 
+            
+            Also I've been on charge of cybersecurity tasks like:
+            - Email analysis in Microsoft Defender using differents apps like any.run, virustotal, etc.
+            - Vulnerability remediation in websites (CORS, XSS, Headers, Hijacking, etc)
+            - Maintain the correct infrastructure for ISO 27001 and 9001
             </p>
           </div>
           <div className='text-5xl flex justify-center gap-16 py-3 text-gray-600'>
