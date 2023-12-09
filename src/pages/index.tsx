@@ -42,7 +42,7 @@ export default function Home() {
           </nav>
           <div className='text-center p-4 '>
             <h2 className='text-4xl py-2 text-green-500 font-medium md:text-6xl dark:text-white'>Jhojans Mosquera Castillo</h2>
-            <h3 className='text-2xl py-4 font-medium md:text-3xl dark:text-white'>Web developer</h3>
+            <h3 className='text-2xl py-4 font-medium md:text-3xl dark:text-white'>Software developer</h3>
             <p className='text-md py-5 leading-6 text-gray-800 md:text-xl max-w-4xl mx-auto dark:text-white'>I am a Telecommunications Engineer 
             interested mainly in technology, software development and languages English and French. I work as a Front-end developer, 
             focused on improving aesthetics and an efficient UI/UX.
