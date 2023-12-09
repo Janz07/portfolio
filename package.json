@@ -4,6 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
+    "deploy": "npm run build && gh-pages -d build",
     "build": "next build",
     "start": "set NODE_ENV=production&& node server.js",
     "lint": "next lint"

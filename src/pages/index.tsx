@@ -44,17 +44,17 @@ export default function Home() {
             <h2 className='text-4xl py-2 text-green-500 font-medium md:text-6xl dark:text-white'>Jhojans Mosquera Castillo</h2>
             <h3 className='text-2xl py-4 font-medium md:text-3xl dark:text-white'>Web developer</h3>
             <p className='text-md py-5 leading-6 text-gray-800 md:text-xl max-w-4xl mx-auto dark:text-white'>I am a Telecommunications Engineer 
-            interested mainly in technology, software development and languages (English and French). I work as a Front-end developer, 
+            interested mainly in technology, software development and languages English and French. I work as a Front-end developer, 
             focused on improving aesthetics and an efficient UI/UX.
 
-            I've worked in the Infraestructure TI field being on charge of platforms like Kaspersky, Cloudflare, IONOS, WordPress, Moodle, AWS,
-            GoDaddy, Linode, namecheap, Zoho, Github, o365 Admin, Azure. 
-            
-            Also I've been on charge of cybersecurity tasks like:
-            - Email analysis in Microsoft Defender using differents apps like any.run, virustotal, etc.
-            - Vulnerability remediation in websites (CORS, XSS, Headers, Hijacking, etc)
-            - Maintain the correct infrastructure for ISO 27001 and 9001.
-            - GoPhish Campaings.
+            I&apos;ve worked in the Infrastructure TI field being in charge of platforms like Kaspersky, Cloudflare, IONOS, WordPress, Moodle, AWS, GoDaddy, Linode, namecheap, Zoho, Github, o365 Admin, Azure.
+
+  Also, I&apos;ve been in charge of cybersecurity tasks like:
+- Email analysis in Microsoft Defender using different apps like any.run, virustotal, etc.
+- Vulnerability remediation in websites: CORS, XSS, Headers, Hijacking, etc.
+- Maintaining the correct infrastructure for ISO 27001 and 9001.
+- GoPhish Campaigns.
+
             </p>
           </div>
           <div className='text-5xl flex justify-center gap-16 py-3 text-gray-600'>
