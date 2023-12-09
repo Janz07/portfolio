@@ -129,12 +129,14 @@ export default function Home() {
             <p className='text-md py-5 leading-6 text-gray-800 md:text-xl max-w-4xl mx-auto dark:text-white'>
             I&apos;ve worked in the Infrastructure TI field being in charge of platforms like Kaspersky, Cloudflare, IONOS, WordPress, Moodle, AWS, GoDaddy, Linode, namecheap, Zoho, Github, o365 Admin, Azure.
 
-Also, I&apos;ve been in charge of cybersecurity tasks like:
-- Email analysis in Microsoft Defender using different apps like any.run, virustotal, etc.
-- Vulnerability remediation in websites: CORS, XSS, Headers, Hijacking, etc.
-- Maintaining the correct infrastructure for ISO 27001 and 9001.
-- GoPhish Campaigns.
             </p>
+            <p className='text-md py-5 leading-6 text-gray-800 md:text-xl max-w-4xl mx-auto dark:text-white'>Also, I&apos;ve been in charge of cybersecurity tasks like:</p>
+            <ul>
+              <li>- Email analysis in Microsoft Defender using different apps like any.run, virustotal, etc.</li>
+              <li>- Vulnerability remediation in websites: CORS, XSS, Headers, Hijacking, etc.</li>
+              <li>- Maintaining the correct infrastructure for ISO 27001 and 9001.</li>
+              <li>- GoPhish Campaigns.</li>
+            </ul>
 
             </p>
           </div>
