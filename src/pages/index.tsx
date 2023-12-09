@@ -47,14 +47,6 @@ export default function Home() {
             interested mainly in technology, software development and languages English and French. I work as a Front-end developer, 
             focused on improving aesthetics and an efficient UI/UX.
 
-            I&apos;ve worked in the Infrastructure TI field being in charge of platforms like Kaspersky, Cloudflare, IONOS, WordPress, Moodle, AWS, GoDaddy, Linode, namecheap, Zoho, Github, o365 Admin, Azure.
-
-  Also, I&apos;ve been in charge of cybersecurity tasks like:
-- Email analysis in Microsoft Defender using different apps like any.run, virustotal, etc.
-- Vulnerability remediation in websites: CORS, XSS, Headers, Hijacking, etc.
-- Maintaining the correct infrastructure for ISO 27001 and 9001.
-- GoPhish Campaigns.
-
             </p>
           </div>
           <div className='text-5xl flex justify-center gap-16 py-3 text-gray-600'>
@@ -63,8 +55,8 @@ export default function Home() {
             <Link href="https://github.com/Janz07"></Link>
             <AiFillGithub />
           </div>
-          <div className='relative mx-auto bg-gradient-to-b from-green-400  to-white-200 rounded-full py-6 w-60 h-60 mt-20 overflow-hidden md:h-96 md:w-96'>
-            <Image src={deved} layout='fill' objectFit='cover' alt='' />
+          <div className='relative mx-auto bg-gradient-to-b from-green-400  to-white-200 rounded-full py-6 w-60 h-60 mt-20 overflow-visible md:h-96 md:w-96'>
+            <Image src={deved} layout='fill' objectFit='cover' alt='' style= {{ marginTop: '1em'}} />
           </div>
         </section>
         <section>
@@ -133,6 +125,15 @@ export default function Home() {
             I have been part in companies such as freelance. Working with Wordpress and Woocommerce, creating 
             and modifying pages/templates in their child component; for this, applying knowledge in Frontend such as HTML, 
             CSS and JS. I have used PHP in the implementation of forms and sessions.
+
+            <br></br>
+            I&apos;ve worked in the Infrastructure TI field being in charge of platforms like Kaspersky, Cloudflare, IONOS, WordPress, Moodle, AWS, GoDaddy, Linode, namecheap, Zoho, Github, o365 Admin, Azure.
+
+Also, I&apos;ve been in charge of cybersecurity tasks like:
+- Email analysis in Microsoft Defender using different apps like any.run, virustotal, etc.
+- Vulnerability remediation in websites: CORS, XSS, Headers, Hijacking, etc.
+- Maintaining the correct infrastructure for ISO 27001 and 9001.
+- GoPhish Campaigns.
             </p>
           </div>
         </section>
