@@ -56,7 +56,7 @@ export default function Home() {
             <AiFillGithub />
           </div>
           <div className='relative mx-auto bg-gradient-to-b from-green-400  to-white-200 rounded-full py-6 w-60 h-60 mt-20 overflow-visible md:h-96 md:w-96'>
-            <Image src={deved} layout='fill' objectFit='cover' alt='' style= {{ marginTop: '1em'}} />
+            <Image src={deved} layout='fill' objectFit='cover' alt='' style= {{ marginTop: '-2em'}} h-auto />
           </div>
         </section>
         <section>
