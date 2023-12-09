@@ -52,8 +52,8 @@ export default function Home() {
           <div className='text-5xl flex justify-center gap-16 py-3 text-gray-600'>
             {/* <AiFillTwitterCircle /> */}
             <Link href="https://www.linkedin.com/in/jhojans-mosquera-castillo-73b0a1224/"><AiFillLinkedin /></Link>
-            <Link href="https://github.com/Janz07"></Link>
-            <AiFillGithub />
+            <Link href="https://github.com/Janz07"><AiFillGithub /></Link>
+            
           </div>
           <div className='relative mx-auto bg-gradient-to-b from-green-400  to-white-200 rounded-full py-6 w-60 h-60 mt-20 overflow-visible md:h-96 md:w-96'>
             <Image src={deved} layout='fill' objectFit='cover' alt='' style= {{ marginTop: '-2em', height: 'auto'}} />
