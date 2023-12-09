@@ -53,7 +53,8 @@ export default function Home() {
             Also I've been on charge of cybersecurity tasks like:
             - Email analysis in Microsoft Defender using differents apps like any.run, virustotal, etc.
             - Vulnerability remediation in websites (CORS, XSS, Headers, Hijacking, etc)
-            - Maintain the correct infrastructure for ISO 27001 and 9001
+            - Maintain the correct infrastructure for ISO 27001 and 9001.
+            - GoPhish Campaings.
             </p>
           </div>
           <div className='text-5xl flex justify-center gap-16 py-3 text-gray-600'>
