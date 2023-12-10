@@ -108,7 +108,7 @@ export default function Home() {
               <Link href="https://github.com/Janz07/higlot">
                 <p className='text-800 py-1 hover:text-green-400'>Higlot</p>
               </Link>
-              <Link href="https://cryptoapp.jhojans.com/">
+              <Link href="">
                 <p className='text-800 py-1 hover:text-green-400'>Cryptoapp</p>
               </Link>
               <Link href="https://tic-tac-toe.jhojans.com/">
